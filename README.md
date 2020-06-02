@@ -2,7 +2,7 @@
 Have you been learning how to make a minecraft bot, but you don't know what to do with it? Well, check this out!
 
 # How to make a minecraft bot?
-I know about 3 libraries which you can use for creating a bot. They're called mineflayer, minecraft-protocol and mcprotocollib. Probably there are more, but these are the most popular ones. Mineflayer and minecraft-protocol are in javascript (node.js), mcprotocollib is in Java. Look them up to get started!
+I know 3 libraries which you can use for creating a bot. They're called mineflayer, minecraft-protocol and mcprotocollib. Probably there are more, but these are the most popular ones. Mineflayer and minecraft-protocol are in javascript (node.js), mcprotocollib is in Java. Look them up to get started!
 
 # Why should I make a MC bot?
 Well, first of all, for fun. A Minecraft bot can help you with a lot of things, you can count entities around you, blocks, players, etc. It's a fun thing to do, and it's not even that hard, but still a good challenge.
